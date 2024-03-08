@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "pracicepod"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of pracicepod."
+  spec.summary      = "It is a sample pod."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -40,7 +40,7 @@ It is used for adding and subtracting.
   #
 
   spec.license      = "MIT (example)"
-  # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+   spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
